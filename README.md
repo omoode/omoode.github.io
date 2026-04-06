@@ -8,7 +8,7 @@ Welcome! I'm a data analyst passionate about turning numbers into insights.
 I specialize in data cleaning, visualization, and reporting using Excel, SQL, and Tableau. I love finding patterns that help businesses make better decisions.
 
 ## ### 📊 Capstone Project: Malaria effect on primary school children in Ibadan.
-<img src="Chat Image 1.png" width="600"/>![ Capstone Research](Chat Image 1.png)
+![ Capstone Research](Chat Image 1.png)
 **Description:** Analyzed 2 years of sales data to identify top-performing products and seasonal trends.
 
 **Tools Used:** Excel, Tableau, SQL
