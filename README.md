@@ -18,4 +18,8 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 - Discovered high loss of interest in going to sschool
 - Created interactive dashboard for monthly tracking
 
-<img src="images/Chat Image 1.png" width="600"/>
+<img src="Chat Image 1.png" width="600"/>
+
+### Research Article and Videographical documentation 
+---
+[Detiailed article to the project →](link-to-project-folder)
