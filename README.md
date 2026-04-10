@@ -4,7 +4,7 @@
 ## About Me
 I am a mission-driven Data Analyst with a five-year background in IT Support and Systems Administration, blending a rigorous approach to data integrity with the ability to turn complex ideas into interactive experiences. I leverage a technical foundation in network infrastructure and systems maintenance  to solve problems from both the backend logic and the user interface. Skilled in Excel, SQL, Python, Tableau, Power BI, and React, I combine analytical thinking with creative design to build intuitive, data-powered tools and dashboards. Driven by curiosity and a commitment to continuous learning, I am now focused on leveraging my problem-solving skills to deliver impactful, data-driven solutions in humanitarian and mission-driven contexts.
 
-### Projects
+## Projects
 ##📊 Capstone Project: Malaria effect on primary school children in Ibadan.
 ![ Capstone Research](Chat Image 1.png)
 <p> 
