@@ -29,7 +29,7 @@ Click to watch our research videographic documentation.
 
 
 ##  Team Research: Sales Trends, Pricing and Promotional Effectiveness in Zara Retail Products Analysis
-![Team Research](Picture 1.png)
+![Team Research](Picture1.png)
 
 **Description:** Analysis into the histotical sales data of ZARA retails.
 
