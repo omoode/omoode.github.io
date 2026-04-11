@@ -6,11 +6,10 @@ I am a mission-driven Data Analyst with a five-year background in IT Support and
 
 ## Projects
 ## 📊 Rent Inflation and Affordability Challenges in Lagos and Abuja.
-![ Capstone Research](Chat Image 1.png)
 <p> 
-  <img src="Chat Image 1.png" width="600"/>
+  <img src="Real Estate Analysis.png" width="600"/>
 </p>
-**Description:** Analyzed 2 years of sales data to identify top-performing products and seasonal trends.
+**Description:** An Analysis of the Real Estate trend in Lagos and Abuja since 2022.
 
 **Tools Used:** Excel, Tableau, SQL
 
@@ -50,7 +49,7 @@ Click to watch our research videographic documentation.
 - **Other:** Data cleaning, Statistical analysis, Reporting
 
 ## Contact
-- 📧 Email: oluwatunlaayodeji@gmail.com
+- 📧 Email: odejideemm.tech@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/ayodejidennis](link)
 - 📊 Tableau Public: [public.tableau.com/profile/sarahchen](link)
 - Power BI: []()
