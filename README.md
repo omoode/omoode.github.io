@@ -53,6 +53,6 @@ Click to watch our research videographic documentation.
 
 ## Contact
 - 📧 Email: odejideemm.tech@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ayodejidennis](link)
+- 💼 LinkedIn: [linkedin.com/in/ayodejidennis](www.linkedin.com/in/emmanuel-odejide-16ab78374)
 - 📊 Tableau Public: [public.tableau.com/profile/sarahchen](link)
 - Power BI: []()
