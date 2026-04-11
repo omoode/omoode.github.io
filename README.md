@@ -24,11 +24,11 @@ I am a mission-driven Data Analyst with a five-year background in IT Support and
 [Detiailed article to the project →](https://www.linkedin.com/feed/update/urn:li:activity:7419595525714345985/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
 
 Click to watch our research videographic documentation. 
-[![Watch Video](Chat Image 2.png)](https://www.youtube.com/watch?v=zCEtRCvhShg)
+[![Watch Video](Gemini_Generated_Image_7kc9q57kc9q57kc9.png)](https://www.youtube.com/watch?v=zCEtRCvhShg)
 
 
 ##  Team Research: Sales Trends, Pricing and Promotional Effectiveness in Zara Retail Products Analysis
-![Team Research](orm image.png)
+![Team Research](Picture 1.png)
 
 **Description:** Analysis into the histotical sales data of ZARA retails.
 
