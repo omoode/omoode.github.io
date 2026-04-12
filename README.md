@@ -1,60 +1,138 @@
-# DATA ANALYST
+# 👨‍💻 EMMANUEL ODEJIDE | DATA ANALYST
+
 <p align="center">
-  <img src="Chat Image 1.png" width="150" style="border-radius: 50%;">
+  <img src="Chat Image 1.png" width="160" style="border-radius: 50%;">
 </p>
-## About Me
-I am a mission-driven Data Analyst with a five-year background in IT Support and Systems Administration, blending a rigorous approach to data integrity with the ability to turn complex ideas into interactive experiences. I leverage a technical foundation in network infrastructure and systems maintenance  to solve problems from both the backend logic and the user interface. Skilled in Excel, SQL, Python, Tableau, Power BI, and React, I combine analytical thinking with creative design to build intuitive, data-powered tools and dashboards. Driven by curiosity and a commitment to continuous learning, I am now focused on leveraging my problem-solving skills to deliver impactful, data-driven solutions in humanitarian and mission-driven contexts.
 
-## Projects
-## 📊 Rent Inflation and Affordability Challenges in Lagos and Abuja.
-<p> 
-  <img src="Real Estate Analysis.png" width="600"/>
+<p align="center">
+  <b>Data Analyst | Business Intelligence | Data-Driven Decision Making</b><br>
+  Turning complex data into actionable insights and compelling stories.
 </p>
-**Description:** An Analysis of the Real Estate trend in Lagos and Abuja since 2022.
-
-**Tools Used:** Excel, PowerBi, SQL
-
-**Key Findings:**
-- Identified a "False Economy" where annualized transport costs in satellite towns (e.g., ₦900k in Abuja Border) completely negate nominal rent savings.
-- Discovered a severe affordability crisis, with the average Rent-to-Income ratio hitting 72.6%, far exceeding the 30% global standard.
-- Established that "Landlord Inflation" (133% - 200% rent hikes) vastly outpaces the official CPI inflation rate of ~15%.
-- Revealed extreme physiological tolls, with 100% of peripheral zone commuters reporting daily physical exhaustion and stress due to traffic.
-
-### Research Article and Videographical documentation 
----
-[Detiailed article to the project →](https://www.linkedin.com/feed/update/urn:li:activity:7419595525714345985/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
-
-Click to watch our research videographic documentation. 
-[![Watch Video](Youtube mail.png)](https://www.youtube.com/watch?v=zCEtRCvhShg)
-
-
-##  Team Research: Sales Trends, Pricing and Promotional Effectiveness in Zara Retail Products Analysis
-![Team Research](Picture1.png)
-
-**Description:** Analysis into the histotical sales data of ZARA retails.
-
-**Tools Used:** Excel
-
-**Key Findings:**
-- Jackets are the top-selling item.
-- Sales are not reliant on promotions.
-- The Aisle and End-cap are the most effective sales positions.
-- Affordable products drive over 70% of total sales.
-- Sales are split almost 50/50 between seasonal and non-seasonal items.
-  
-  [Detiailed article to the project →](https://www.linkedin.com/posts/emmanuel-odejide-16ab78374_dataanalytics-exceldashboard-retailanalytics-share-7410635227582291968-gG2c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
-[View Project Files →](link-to-project-folder)
 
 ---
 
-## Skills
-- **Data Analysis:** Excel (Advanced), Google Sheets
-- **Databases:** SQL, MySQL
-- **Visualization:** Tableau, Power BI
-- **Other:** Data cleaning, Statistical analysis, Reporting
+## 🚀 Professional Summary
 
-## Contact
-- 📧 Email: odejideemm.tech@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/odejideemmanuel](https://www.linkedin.com/in/emmanuel-odejide-16ab78374/)
-- 📊 Tableau Public: [public.tableau.com/profile/sarahchen](link)
-- Power BI: []()
+Results-oriented **Data Analyst** with 5+ years of experience in **IT Support and Systems Administration**, bringing a strong foundation in **data integrity, system architecture, and analytical problem-solving**.
+
+I specialize in transforming raw data into **strategic insights, dashboards, and data products** that support decision-making. My unique advantage lies in bridging **technical backend systems with user-focused data visualization**, ensuring both accuracy and usability.
+
+🔍 Currently focused on:
+- Data analytics in real-world economic and social systems  
+- Building interactive dashboards  
+- Supporting mission-driven and impact-focused organizations  
+
+---
+
+## 🧠 Core Competencies
+
+- **Data Analysis:** Advanced Excel, Google Sheets, Data Cleaning, EDA  
+- **Programming & Databases:** SQL, MySQL, Python (Pandas, NumPy)  
+- **Data Visualization:** Power BI, Tableau  
+- **Technical Skills:** Systems Administration, Network Infrastructure  
+- **Soft Skills:** Analytical Thinking, Problem Solving, Data Storytelling  
+
+---
+
+## 📊 Featured Projects
+
+---
+
+### 🏙️ Rent Inflation & Affordability Crisis (Lagos & Abuja)
+
+<p align="center">
+  <img src="Real Estate Analysis.png" width="700"/>
+</p>
+
+**📌 Overview:**  
+Comprehensive analysis of housing affordability trends in Lagos and Abuja since 2022, highlighting economic and social impacts.
+
+**🛠 Tools:** Excel | SQL | Power BI  
+
+**🔑 Key Insights:**
+- Identified a **“False Economy”** where lower rents in outskirts are offset by high transport costs (≈ ₦900k/year)  
+- Found **Rent-to-Income ratio at 72.6%**, far above the global benchmark (30%)  
+- Revealed **rent inflation (133%–200%)** significantly exceeding official CPI (~15%)  
+- Documented **human impact**, with 100% of surveyed commuters reporting stress and fatigue  
+
+**🔗 Links:**
+- [Read Full Article](https://www.linkedin.com/feed/update/urn:li:activity:7419595525714345985/)
+- [Watch Project Video](https://www.youtube.com/watch?v=zCEtRCvhShg)
+
+---
+
+### 🛍️ Retail Analytics: Zara Sales Performance (Team Project)
+
+<p align="center">
+  <img src="Picture1.png" width="700"/>
+</p>
+
+**📌 Overview:**  
+Exploratory analysis of Zara retail data to evaluate sales trends, pricing strategies, and promotion effectiveness.
+
+**🛠 Tools:** Excel  
+
+**🔑 Key Insights:**
+- Jackets emerged as the **top-performing product category**  
+- Promotions showed **minimal influence on overall sales**  
+- **Aisle and End-cap placements** drive the highest conversions  
+- Affordable items contribute **70%+ of total revenue**  
+- Balanced revenue split between **seasonal vs non-seasonal products**  
+
+**🔗 Links:**
+- [View Detailed Article](https://www.linkedin.com/posts/emmanuel-odejide-16ab78374_dataanalytics-exceldashboard-retailanalytics-share-7410635227582291968-gG2c)
+- [Project Files](link-to-project-folder)
+
+---
+
+## 💼 Professional Experience
+
+### IT Support & Systems Administration  
+**Previous Role**
+
+- Managed and maintained enterprise IT systems and network infrastructure  
+- Ensured data accuracy, system uptime, and user support  
+- Automated routine processes, improving operational efficiency  
+- Strengthened analytical and troubleshooting skills applicable to data analytics  
+
+---
+
+## 📈 What I Bring to the Table
+
+✔ Ability to translate business problems into data solutions  
+✔ Strong foundation in both technical systems and analytics  
+✔ Experience building insightful dashboards and reports  
+✔ Passion for data-driven impact in real-world contexts  
+
+---
+
+## 📚 Certifications & Learning
+
+- Add your certifications here (Google Data Analytics, Coursera, etc.)  
+- SQL / Python courses  
+- Power BI / Tableau certifications  
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-odejide-16ab78374/  
+- 📊 **Tableau Public:** (Insert your actual link)  
+- 📈 **Power BI Portfolio:** (Insert link if available)  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: odejideemm.tech@gmail.com  
+
+---
+
+## ⚡ Notes
+
+- Update Tableau and Power BI links  
+- Replace placeholder project folder link  
+- Ensure images are in your repo directory  
+- Rename image files professionally (e.g., `real-estate-dashboard.png`)  
+
+---
