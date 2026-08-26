@@ -126,13 +126,7 @@ Exploratory analysis of Zara retail data to evaluate sales trends, pricing strat
 
 - 📧 Email: odejideemm.tech@gmail.com  
 
----
 
-## ⚡ Notes
 
-- Update Tableau and Power BI links  
-- Replace placeholder project folder link  
-- Ensure images are in your repo directory  
-- Rename image files professionally (e.g., `real-estate-dashboard.png`)  
 
 ---
